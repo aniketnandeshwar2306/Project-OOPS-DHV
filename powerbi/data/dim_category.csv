@@ -1,0 +1,10 @@
+category_name,sla_target_hours,sla_max_hours,priority_tier,sla_tier,department_unit
+Roads & Infrastructure,48.0,96.0,High,Standard (24 to 72 Hours),Engineering & Civil
+Solid Waste Management,24.0,48.0,Medium,Immediate (Within 24 Hours),Sanitation & Health
+Street Lighting & Electrical,24.0,48.0,High,Immediate (Within 24 Hours),Electrical
+Drainage & Water Supply,36.0,72.0,High,Urgent (24 to 48 Hours),Engineering & Civil
+Public Health & Sanitation,48.0,96.0,Medium,Standard (24 to 72 Hours),Sanitation & Health
+Animal Husbandry & Stray Animals,36.0,72.0,Medium,Standard (24 to 48 Hours),Sanitation & Health
+Horticulture & Greenery,48.0,120.0,Low,Standard (24 to 72 Hours),Sanitation & Health
+Encroachments & Footpaths,72.0,168.0,Medium,Extended (3 to 7 Days),Sanitation & Health
+Revenue & Urban Governance,120.0,240.0,Low,Administrative (5 to 10 Days),Sanitation & Health

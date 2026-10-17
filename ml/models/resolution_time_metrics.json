@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.8671,
+  "roc_auc": 0.9261673192061664,
+  "macro_f1": 0.8048352988835791,
+  "weighted_f1": 0.8686322738486602,
+  "median_abs_error_hours": 6.874272244176651,
+  "sla_window_accuracy": 0.6361666666666667
+}

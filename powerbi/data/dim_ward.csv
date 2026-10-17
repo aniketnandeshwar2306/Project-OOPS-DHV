@@ -1,0 +1,785 @@
+ward_name,zone_name,estimated_population,population_in_10k,ward_area_sqkm
+A Adugodi,Bommanahalli,80965,8.1,6.2
+Adugodi,Bommanahalli,90884,9.09,8.5
+Agara,Bommanahalli,66151,6.62,5.17
+Anjanapur,Bommanahalli,79607,7.96,4.75
+Anjanapura,Bommanahalli,80492,8.05,6.2
+Arakere,Bommanahalli,92532,9.25,4.88
+BTM Layout,Bommanahalli,55405,5.54,7.36
+Bandepalya,Bommanahalli,74685,7.47,4.81
+Basavanagudi,Bommanahalli,108699,10.87,6.39
+Begur,Bommanahalli,63722,6.37,5.87
+Bellandur,Bommanahalli,100862,10.09,7.09
+Benniganahalli,Bommanahalli,65781,6.58,6.38
+Bheereshwara Nagar,Bommanahalli,76077,7.61,7.88
+Bilekahalli,Bommanahalli,73519,7.35,3.91
+Bommanahalli,Bommanahalli,83944,8.39,5.72
+Chikka Adugodi,Bommanahalli,101805,10.18,4.39
+Devarachikkanahalli,Bommanahalli,54953,5.5,8.54
+Doresanipalya,Bommanahalli,88188,8.82,6.84
+Ejipura,Bommanahalli,104111,10.41,6.63
+Garvebavi Palya,Bommanahalli,89992,9.0,8.9
+Gottigere,Bommanahalli,92302,9.23,7.37
+HSR Layout,Bommanahalli,107890,10.79,3.8
+Harinagar,Bommanahalli,74610,7.46,7.66
+Hemmigepura,Bommanahalli,99215,9.92,7.94
+Hongasandra,Bommanahalli,61093,6.11,7.95
+Hosapalya,Bommanahalli,72832,7.28,3.74
+Hulimavu,Bommanahalli,53784,5.38,6.15
+Iblur,Bommanahalli,92298,9.23,8.58
+J.P Nagar,Bommanahalli,73356,7.34,7.17
+J.P.Nagar,Bommanahalli,92227,9.22,4.4
+Jakkasandra,Bommanahalli,70363,7.04,7.14
+Jaraganahalli,Bommanahalli,86683,8.67,6.63
+Jayanagar East,Bommanahalli,63341,6.33,4.12
+Kasavanahalli,Bommanahalli,75014,7.5,4.53
+Kengal Hanumanthaiah South,Bommanahalli,55199,5.52,6.93
+Kodi Chikkanahalli,Bommanahalli,90088,9.01,3.84
+Konanakunte,Bommanahalli,104675,10.47,7.9
+Kormangala East,Bommanahalli,103584,10.36,8.85
+Kormangala West,Bommanahalli,57692,5.77,5.1
+Kothanur,Bommanahalli,88565,8.86,8.97
+Kudlu,Bommanahalli,63738,6.37,3.57
+Lakkasandra,Bommanahalli,87847,8.78,6.87
+Madiwala,Bommanahalli,71725,7.17,8.3
+Mangammana Palya,Bommanahalli,70380,7.04,6.24
+Mangammanapalya,Bommanahalli,75717,7.57,6.02
+N.S Palya,Bommanahalli,99141,9.91,8.25
+National Games Village,Bommanahalli,101898,10.19,7.71
+New Tavarekere,Bommanahalli,63562,6.36,8.45
+Puttenahalli,Bommanahalli,76978,7.7,5.96
+Rajarajeshwari Nagar,Bommanahalli,98274,9.83,5.54
+S.G Palya,Bommanahalli,88053,8.81,7.43
+Sarvabhouma Nagar,Bommanahalli,104577,10.46,8.35
+Shakambari Nagar,Bommanahalli,103162,10.32,4.59
+Shakambarinagara,Bommanahalli,98410,9.84,4.54
+Singasandra,Bommanahalli,93511,9.35,4.7
+Sri Lakshmi Devi Ward,Bommanahalli,63549,6.35,5.33
+Subramanyapura,Bommanahalli,103992,10.4,8.86
+Uttarahalli,Bommanahalli,71189,7.12,4.03
+Vasanthapura,Bommanahalli,87415,8.74,3.92
+Vijaya Bank Layout,Bommanahalli,98294,9.83,4.89
+Vishwapriya Nagara,Bommanahalli,95967,9.6,5.47
+Viswamanava Kuvempu Ward,Bommanahalli,82384,8.24,7.77
+Yelachenahalli,Bommanahalli,94061,9.41,6.53
+Bagalagunte,Dasarahalli,87181,8.72,4.48
+Chokkasandra,Dasarahalli,64182,6.42,8.64
+Dodda Bidarkallu,Dasarahalli,88874,8.89,8.93
+Hegganahalli,Dasarahalli,69353,6.94,4.68
+Herohalli,Dasarahalli,53322,5.33,6.8
+Kempapura,Dasarahalli,72408,7.24,6.36
+Kottigepalya,Dasarahalli,75597,7.56,5.63
+Mallasandra,Dasarahalli,91139,9.11,6.32
+Manjunatha Nagar,Dasarahalli,50312,5.03,6.57
+Peenya Industrial Area,Dasarahalli,99021,9.9,4.32
+Rajagopala Nagar,Dasarahalli,97888,9.79,4.38
+Rajarajeshwari Nagar,Dasarahalli,99217,9.92,8.4
+Shettyhalli,Dasarahalli,95867,9.59,5.06
+T-Dasarahalli,Dasarahalli,61216,6.12,5.1
+Abdul Kalam Nagar,East,65686,6.57,6.38
+Agaram,East,101270,10.13,6.21
+Andrahalli,East,94151,9.42,5.71
+Banaswadi,East,90535,9.05,6.18
+Basavanapura,East,100897,10.09,8.78
+Belathur,East,76317,7.63,4.21
+Bellandur,East,54802,5.48,6.91
+Benniganahalli,East,99648,9.96,3.69
+Bharath Aikya Ward,East,52024,5.2,7.83
+Bharathi Nagar,East,98840,9.88,8.71
+Bhoopasandra,East,54749,5.47,5.55
+Byatarayanapura,East,73070,7.31,5.72
+Byrasandra,East,85607,8.56,8.12
+C.V.Raman Nagar,East,99013,9.9,5.75
+Chickpete,East,77859,7.79,3.89
+Devarajeevanahalli,East,72071,7.21,7.88
+Dinnur,East,75167,7.52,7.03
+Dodda Nekkundi,East,74086,7.41,7.05
+Domlur,East,53727,5.37,4.99
+Gandhi Nagar,East,79540,7.95,5.14
+Ganga Nagar,East,70232,7.02,6.8
+Ganganagar,East,95578,9.56,4.53
+Gangenahalli,East,68636,6.86,5.46
+Geddalahalli,East,89556,8.96,8.47
+Gunjur,East,93146,9.31,5.39
+Gurappanapalya,East,104382,10.44,8.42
+HBR Layout,East,53520,5.35,4.24
+HRBR Layout,East,52504,5.25,7.31
+Halasuru,East,69134,6.91,5.55
+Harinagar,East,78195,7.82,3.81
+Hebbal,East,91204,9.12,5.49
+Hennur,East,103027,10.3,5.52
+Hombegowda Nagara,East,72898,7.29,7.8
+Horamavu,East,83575,8.36,8.4
+Hoysala Nagar,East,108930,10.89,5.09
+Hoysala Nagara Central,East,107914,10.79,6.73
+Jakkasandra,East,74609,7.46,6.73
+Jalahalli,East,108575,10.86,7.45
+Jaya Chamarajendra Nagara,East,89449,8.94,6.79
+Jayachamarajendra Nagar,East,55580,5.56,7.95
+Jayamahal,East,69351,6.94,8.24
+Jeevan Bhimanagar,East,94224,9.42,5.43
+Jeevanbhima Nagar,East,106851,10.69,5.5
+Jnanabharathi Ward,East,93513,9.35,7.95
+Jogpalya,East,70816,7.08,6.29
+Jogupalya,East,100658,10.07,5.01
+Kacharakanahalli,East,50527,5.05,7.83
+Kadugondanahalli,East,71513,7.15,7.05
+Kalyan Nagar,East,80052,8.01,7.57
+Kammanahalli,East,101746,10.17,4.0
+Kasturi Nagar,East,82222,8.22,8.28
+Kaval Byrasandra,East,95233,9.52,5.78
+Kavalbyrasandra,East,71921,7.19,4.52
+Kempapura,East,71413,7.14,7.64
+Kodigehalli,East,53809,5.38,5.88
+Kodihalli,East,71642,7.16,5.95
+Konena Agrahara,East,93303,9.33,4.96
+Krishnaiahnapalya,East,58953,5.9,4.8
+Kushal Nagar,East,101410,10.14,8.75
+L.B Shastri Nagar,East,73210,7.32,3.96
+Lingarajapuram,East,88558,8.86,5.28
+Manorayanapalya,East,96981,9.7,3.78
+Maruthi Seva Nagar,East,86497,8.65,8.23
+Maruthi Seva Nagara,East,63821,6.38,7.28
+Muneshwara Nagar,East,102156,10.22,4.71
+Munnenkolalu,East,91476,9.15,8.12
+N.A.L Layout,East,69879,6.99,6.07
+Nada prabhu Kempegowda Nagara,East,89940,8.99,5.0
+Nagashettyhalli,East,82052,8.21,6.15
+Nagavara,East,96538,9.65,5.07
+Neelasandra,East,78646,7.86,6.03
+New Thippasandra,East,86498,8.65,6.16
+Newthippasandra,East,89102,8.91,5.25
+Panathur,East,108754,10.88,7.79
+Peenya,East,93172,9.32,6.37
+Priyadarshini Ward,East,68805,6.88,4.94
+Pulakeshi Nagar,East,58630,5.86,6.95
+Pulikeshi Nagar,East,66087,6.61,5.43
+R.T Nagar,East,87288,8.73,4.76
+Radhakrishna Temple,East,92889,9.29,4.52
+Rajamahal,East,71707,7.17,8.53
+Ramamurthy Nagar,East,54730,5.47,7.72
+Ramaswamy Palya,East,91964,9.2,4.79
+S.K.Garden,East,98656,9.87,8.03
+Sagayapuram,East,108206,10.82,8.02
+Sampangiram Nagar,East,81354,8.14,6.73
+Sampigehalli,East,70800,7.08,5.43
+Sanjay Nagar,East,107122,10.71,3.6
+Sarvagna Nagar,East,80008,8.0,3.92
+Shakthi Nagar,East,79775,7.98,3.9
+Shanthala Nagar,East,105032,10.5,7.76
+Shanthi Nagar,East,82546,8.25,4.46
+Shivaji Nagar,East,88843,8.88,4.59
+Shivanasamudra Ward,East,82684,8.27,7.99
+Someshwara Nagara,East,70816,7.08,7.73
+Subbayanapalya,East,105926,10.59,8.14
+Swamy Vivekananda Ward,East,67138,6.71,7.98
+Thanisandra,East,99482,9.95,7.52
+Uday Nagar,East,54621,5.46,7.26
+Ulsoor,East,64465,6.45,3.8
+Uttarahalli,East,75523,7.55,8.87
+V.V Puram,East,74164,7.42,8.98
+Vannarpet,East,99152,9.92,7.93
+Varthur,East,50412,5.04,3.68
+Vasanth Nagar,East,55777,5.58,4.28
+Venkat Reddy Nagara,East,96567,9.66,7.51
+Vishwanatha Nagenahalli,East,67137,6.71,8.59
+Vishwanathnagenahalli,East,102472,10.25,6.43
+Viswamanava Kuvempu Ward,East,60672,6.07,8.05
+Yelahanka Satellite Town,East,66874,6.69,7.03
+A Narayanapura,Mahadevapura,86790,8.68,5.12
+A.Narayanapura,Mahadevapura,56920,5.69,4.5
+Anjanapur,Mahadevapura,95630,9.56,7.28
+Ashwath Nagar,Mahadevapura,78550,7.86,4.96
+Basavanapura,Mahadevapura,94838,9.48,3.77
+Belathur,Mahadevapura,102380,10.24,4.72
+Bellandur,Mahadevapura,72840,7.28,7.35
+Bellanduru,Mahadevapura,58360,5.84,3.52
+Benniganahalli,Mahadevapura,61260,6.13,5.91
+Bharath Aikya Ward,Mahadevapura,84987,8.5,6.24
+Bhattarahalli,Mahadevapura,57880,5.79,6.17
+Bommanahalli,Mahadevapura,76773,7.68,4.68
+Byrathi,Mahadevapura,95020,9.5,5.98
+C.V.Raman Nagar,Mahadevapura,77748,7.77,4.2
+Channasandra,Mahadevapura,55366,5.54,6.05
+Devasandra,Mahadevapura,83646,8.36,7.92
+Dodda Nekkundi,Mahadevapura,91762,9.18,3.73
+Doddanekkundi,Mahadevapura,58107,5.81,4.11
+G.M Palya,Mahadevapura,78198,7.82,5.59
+Garudachar Palya,Mahadevapura,51018,5.1,4.6
+Garudacharpalya,Mahadevapura,87831,8.78,6.2
+Gunjur,Mahadevapura,83376,8.34,6.28
+HAL Airport,Mahadevapura,77261,7.73,5.35
+HSR Layout,Mahadevapura,60119,6.01,3.72
+Hagadooru,Mahadevapura,59647,5.96,3.65
+Hagaduru,Mahadevapura,94631,9.46,5.91
+Hoodi,Mahadevapura,52107,5.21,8.38
+Horamavu,Mahadevapura,108320,10.83,5.4
+J.P.Nagar,Mahadevapura,61053,6.11,6.8
+K Chennasandra,Mahadevapura,80983,8.1,8.12
+K.R.Puram,Mahadevapura,61782,6.18,7.62
+K.S. Nissar Ahmed Ward,Mahadevapura,52410,5.24,4.88
+Kadugodi,Mahadevapura,71702,7.17,4.94
+Kasavanahalli,Mahadevapura,109097,10.91,8.07
+Kaveri Nagara,Mahadevapura,77002,7.7,7.06
+Kundalahalli,Mahadevapura,61492,6.15,5.74
+Marathahalli,Mahadevapura,65309,6.53,8.02
+Marathalli,Mahadevapura,64553,6.46,4.43
+Munnenkolalu,Mahadevapura,78369,7.84,3.61
+Panathur,Mahadevapura,58131,5.81,6.06
+Priyadarshini Ward,Mahadevapura,50140,5.01,6.6
+Ramamurthy Nagar,Mahadevapura,103405,10.34,7.89
+Ramamurthy Nagara,Mahadevapura,79783,7.98,7.01
+S.M Krishna Ward,Mahadevapura,50880,5.09,4.41
+Sangama Ward,Mahadevapura,81265,8.13,3.91
+Shivanasamudra Ward,Mahadevapura,85390,8.54,4.77
+T.R Shamanna Nagar,Mahadevapura,59597,5.96,4.32
+Vannarpet,Mahadevapura,77973,7.8,3.89
+Varthur,Mahadevapura,81001,8.1,7.08
+Vignana Nagar,Mahadevapura,63082,6.31,7.45
+Vijanapura,Mahadevapura,94223,9.42,5.52
+Whitefield,Mahadevapura,95637,9.56,8.59
+Yamalur,Mahadevapura,93268,9.33,5.08
+Bangarappa Nagara,RRNagar,53588,5.36,7.84
+Byatarayanapura,RRNagar,92569,9.26,7.1
+Chikkalasandra,RRNagar,54825,5.48,7.72
+Chokkasandra,RRNagar,67929,6.79,7.24
+Deepanjali Nagara,RRNagar,54409,5.44,5.58
+Dodda Bidarkallu,RRNagar,106971,10.7,6.3
+Dr Rajkumar Ward,RRNagar,59607,5.96,4.26
+Govindraja Nagara,RRNagar,78712,7.87,5.73
+H.M.T,RRNagar,72310,7.23,7.2
+Hampi Nagar,RRNagar,67817,6.78,5.24
+Hegganahalli,RRNagar,64520,6.45,5.69
+Hemmigepura,RRNagar,57303,5.73,3.77
+Herohalli,RRNagar,100439,10.04,5.28
+Hosahalli,RRNagar,81976,8.2,8.77
+Hosakerehalli,RRNagar,90783,9.08,5.27
+J.P PARK,RRNagar,69286,6.93,3.61
+J.P.Park,RRNagar,109415,10.94,6.69
+Jalahalli,RRNagar,101771,10.18,5.02
+Jnanabharathi Ward,RRNagar,71829,7.18,8.07
+Kempegowda Layout,RRNagar,108036,10.8,7.37
+Kengal Hanumanthaiah West,RRNagar,75929,7.59,5.18
+Kengeri,RRNagar,51359,5.14,8.82
+Kengeri Kote ward,RRNagar,98502,9.85,4.14
+Konanakunte,RRNagar,50750,5.08,5.78
+Kottigepalya,RRNagar,86671,8.67,8.5
+Laggere,RRNagar,95623,9.56,8.82
+Lakshmidevi Nagar,RRNagar,58501,5.85,7.91
+Malleshwaram,RRNagar,53740,5.37,4.25
+Nagadevanahalli,RRNagar,105651,10.57,5.1
+Nagarabhavi,RRNagar,66761,6.68,8.94
+Padmanabhanagara,RRNagar,84236,8.42,6.52
+Rajagopala Nagar,RRNagar,52447,5.24,8.97
+Rajaji Nagar,RRNagar,88283,8.83,8.22
+Rajarajeshwari Nagar,RRNagar,70088,7.01,5.59
+Rajeshwarinagar,RRNagar,72532,7.25,4.55
+Shanthala Nagar,RRNagar,66532,6.65,4.25
+Subedarapalya,RRNagar,90193,9.02,6.96
+T-Dasarahalli,RRNagar,57254,5.73,3.65
+Talagattapura,RRNagar,93303,9.33,7.34
+Thindlu,RRNagar,53981,5.4,4.76
+Ullalu,RRNagar,50187,5.02,7.54
+Uttarahalli,RRNagar,80439,8.04,7.19
+Vasanthapura,RRNagar,90267,9.03,7.87
+Vinayaka Layout,RRNagar,97102,9.71,7.63
+Yeshwanthpur,RRNagar,53909,5.39,6.43
+A Narayanapura,South,74214,7.42,4.86
+A.Narayanapura,South,58484,5.85,6.02
+Abdul Kalam Nagar,South,56104,5.61,7.87
+Adi Chunchanagiri Ward,South,107299,10.73,8.41
+Adugodi,South,60006,6.0,6.62
+Aerocity,South,64395,6.44,6.99
+Agaram,South,78880,7.89,8.91
+Agrahara Dasarahalli,South,71162,7.12,5.92
+Ambedkarnagar,South,77702,7.77,4.01
+Amruthahalli,South,76784,7.68,7.84
+Anandapura,South,55188,5.52,7.05
+Andrahalli,South,106544,10.65,3.97
+Anjanapur,South,87370,8.74,7.05
+Anjanapura,South,90969,9.1,7.25
+Anubhava Nagara,South,80621,8.06,7.39
+Arakere,South,70112,7.01,3.99
+Aramane Nagar,South,90792,9.08,6.96
+Aramane Nagara,South,68567,6.86,6.23
+Aruna Asif Ali Ward,South,61196,6.12,4.26
+Ashoka Nagara,South,101850,10.19,5.98
+Ashoka Pillar,South,83443,8.34,5.7
+Ashokanagar,South,89141,8.91,5.96
+Attigupe,South,58151,5.82,8.15
+Attiguppe,South,101129,10.11,6.86
+Austin Town,South,53405,5.34,7.78
+Avalahalli,South,108786,10.88,4.23
+Azad Nagar,South,53467,5.35,8.16
+BHEL Ward,South,69699,6.97,8.84
+BTM Layout,South,59898,5.99,8.65
+Babusab Palya,South,74195,7.42,8.53
+Bagalagunte,South,93256,9.33,4.35
+Banashankari Temple Ward,South,52246,5.22,7.83
+Banaswadi,South,100662,10.07,7.01
+Bandi Reddy Circle Ward,South,61273,6.13,8.38
+Bangarappa Nagara,South,61584,6.16,7.45
+Bapuji Nagar,South,61289,6.13,6.45
+Bapuji Nagara,South,87159,8.72,7.78
+Basavanagudi,South,91953,9.2,5.06
+Basavanapura,South,109148,10.91,5.17
+Basaveshwara Nagar,South,50378,5.04,5.13
+Basaveshwara Nagara,South,57219,5.72,6.01
+Begur,South,71073,7.11,7.05
+Beguru,South,53965,5.4,4.59
+Bellandur,South,97699,9.77,6.65
+Benniganahalli,South,105126,10.51,3.94
+Bharathi Nagar,South,60497,6.05,5.98
+Bhattarahalli,South,56074,5.61,4.81
+Bheereshwara Nagar,South,102961,10.3,3.89
+Bhuvaneshwari Nagar,South,88367,8.84,8.34
+Binnypete,South,51906,5.19,5.59
+Bommanahalli,South,108073,10.81,5.62
+Byadarahalli,South,66638,6.66,7.83
+Byatarayanapura,South,65199,6.52,3.84
+Byrasandra,South,104311,10.43,7.35
+Chamarajpet,South,100976,10.1,5.39
+Chamrajpet,South,59063,5.91,4.79
+Chandra Layout,South,72018,7.2,6.67
+Chandranagara,South,51605,5.16,7.3
+Chellakere,South,93772,9.38,6.51
+Cheluvadi Palya,South,72216,7.22,7.23
+Chickpete,South,55301,5.53,6.86
+Chikkalasandra,South,64380,6.44,7.97
+Chikkathoguru,South,61056,6.11,5.57
+Chokkasandra,South,87393,8.74,5.95
+Chowdeshwari Nagar,South,52638,5.26,4.3
+Cottonpete,South,86781,8.68,8.39
+Cox Town,South,89271,8.93,7.63
+D.V Gundappa Ward,South,72546,7.25,4.24
+Da.Ra. Bendre Ward,South,65583,6.56,4.04
+Dattatreya Ward,South,60409,6.04,7.16
+Dayanand Nagara,South,99464,9.95,7.39
+Deepanjali Nagar,South,75346,7.53,6.71
+Deepanjali Nagara,South,91400,9.14,7.88
+Devagiri Temple Ward,South,100708,10.07,6.35
+Devaraj Urs Ward,South,52349,5.23,4.31
+Devasandra,South,91338,9.13,4.43
+Dharmaraya Swamy Temple Ward,South,61939,6.19,6.95
+Dharmarayaswamy Temple Ward,South,53746,5.37,8.27
+Dodda Bidarakallu,South,97395,9.74,7.86
+Doddabommasandra,South,70611,7.06,7.77
+Doddakammanahalli,South,98476,9.85,6.16
+Doddanekkundi,South,108017,10.8,8.03
+Doddanna Nagar,South,97557,9.76,5.01
+Domlur,South,94621,9.46,8.89
+Domluru,South,71369,7.14,7.93
+Dooravaninagar,South,61223,6.12,3.89
+Dr Rajkumar Ward,South,52913,5.29,6.18
+Dr. Puneeth Rajkumar Ward,South,109093,10.91,5.86
+Dr. Vishnuvardhan Ward,South,67750,6.78,5.08
+Dr.Rajkumar Ward,South,103241,10.32,4.47
+Ejipura,South,85584,8.56,8.2
+Freedom Fighter Ward,South,75494,7.55,6.78
+G.M Palya,South,101732,10.17,3.54
+Gali Anjaneya Swamy Temple Ward,South,54652,5.47,8.77
+Gali Anjaneya Temple Ward,South,63139,6.31,5.24
+Gandhi Nagar,South,72990,7.3,6.06
+Ganesh Mandira Ward,South,53989,5.4,3.96
+Ganeshmandira Ward,South,97076,9.71,5.93
+Gayathri Nagar,South,82428,8.24,8.15
+Gayathri Nagara,South,76036,7.6,5.98
+Giri Nagar,South,93572,9.36,5.15
+Gopalpura,South,101444,10.14,7.93
+Goraguntepalya,South,60218,6.02,6.14
+Gottigere,South,60303,6.03,5.33
+Govindapura,South,86946,8.69,8.5
+Govindraja Nagara,South,93641,9.36,5.2
+Gowdanapalya,South,93271,9.33,5.05
+Gurappanapalya,South,73541,7.35,6.07
+H.M.T,South,70065,7.01,4.77
+HAL Airport,South,75605,7.56,7.56
+HBR Layout,South,81036,8.1,8.07
+HRBR Layout,South,108440,10.84,5.6
+HSR Layout,South,96935,9.69,5.75
+Hagadooru,South,108951,10.9,4.83
+Halasuru,South,87590,8.76,3.51
+Hampi Nagar,South,64801,6.48,8.89
+Hanumantha Nagar,South,55118,5.51,5.75
+Hanumanthanagar,South,83959,8.4,6.03
+Harinagar,South,61954,6.2,4.79
+Hebbal,South,66351,6.64,8.92
+Hegganahalli,South,70318,7.03,3.52
+Hemmigepura,South,74647,7.46,7.92
+Hennur,South,91206,9.12,4.61
+Herohalli,South,78122,7.81,7.35
+Hombegowda Nagar,South,68911,6.89,3.79
+Hombegowda Nagara,South,101259,10.13,6.58
+Hongasandra,South,91772,9.18,6.55
+Horamavu,South,98018,9.8,6.73
+Hosahalli,South,68875,6.89,4.8
+Hosakerehalli,South,73332,7.33,7.69
+Hoysala Nagara Central,South,74759,7.48,8.06
+Hoysala Nagara East,South,76587,7.66,5.02
+IPD Salappa Ward,South,98307,9.83,3.98
+Indiranagar,South,62365,6.24,4.76
+J.P Nagar,South,75873,7.59,7.84
+J.P.Nagar,South,60305,6.03,8.02
+JJR Nagara,South,95550,9.55,8.94
+Jagadish Nagar,South,62733,6.27,6.29
+Jai Maruthi Nagar,South,103436,10.34,6.94
+Jakkasandra,South,79782,7.98,6.66
+Jakkur,South,54270,5.43,8.44
+Jayamahal,South,86505,8.65,4.05
+Jayanagar East,South,96059,9.61,5.9
+Jayangar,South,103490,10.35,6.33
+Jeevan Bhimanagar,South,105384,10.54,5.14
+Jeevanahalli,South,91197,9.12,8.95
+Jnana Bharathi Ward,South,85685,8.57,4.61
+Jnanabharathi Ward,South,105274,10.53,7.51
+Jogpalya,South,106669,10.67,4.88
+Jogupalya,South,72851,7.29,4.4
+K Chennasandra,South,104758,10.48,8.69
+K Kamaraj Ward,South,72854,7.29,6.75
+K Narayanapura,South,61269,6.13,6.39
+K.G.Halli,South,64996,6.5,3.81
+K.P Agrahara,South,81776,8.18,4.81
+K.R Market,South,67412,6.74,7.76
+K.R Pura,South,108840,10.88,4.5
+K.R.Puram,South,76960,7.7,8.21
+K.S. Nissar Ahmed Ward,South,98324,9.83,5.83
+Kacharakanahalli,South,54929,5.49,5.99
+Kadirenahalli,South,73917,7.39,7.5
+Kadugodi,South,68846,6.88,7.5
+Kaggadasapura,South,59138,5.91,6.63
+Kalkere,South,56544,5.65,5.89
+Kalyan Nagar,South,66810,6.68,8.31
+Kamakshipalya,South,62569,6.26,8.83
+Kamakya Layout,South,51292,5.13,3.8
+Kamalanagara,South,92207,9.22,7.76
+Kammanahalli,South,107798,10.78,7.68
+Kanakanapalya,South,75546,7.55,5.92
+Kane Muneshwara Ward,South,85682,8.57,6.04
+Karisandra,South,73363,7.34,5.63
+Kasavanahalli,South,53385,5.34,7.03
+Kasturbha Nagar,South,93007,9.3,3.95
+Kasturi Nagar,South,53840,5.38,4.46
+Kathriguppe,South,68783,6.88,8.19
+Katriguppe,South,57979,5.8,6.93
+Kaval Byrasandra,South,79829,7.98,6.4
+Kavalbyrasandra,South,104348,10.43,4.24
+Kaveripura,South,77926,7.79,5.3
+Kempapura,South,63804,6.38,6.05
+Kempapura Agrahara,South,91537,9.15,6.06
+Kempegowda Layout,South,56531,5.65,4.05
+Kengal Hanumanthaiah West,South,65278,6.53,5.21
+Kengeri,South,52938,5.29,6.0
+Kengeri Kote ward,South,72654,7.27,5.73
+Kethamaranahalli,South,75316,7.53,3.61
+Kodandarampura,South,107250,10.72,6.44
+Kodigehalli,South,98344,9.83,4.87
+Kodihalli,South,106687,10.67,4.41
+Kogilu,South,50140,5.01,7.93
+Konanakunte,South,62874,6.29,3.58
+Konena Agrahara,South,85214,8.52,5.33
+Koramangala,South,96881,9.69,6.3
+Kormangala West,South,90222,9.02,5.66
+Kothanur,South,55172,5.52,4.91
+Kottegepalya,South,98972,9.9,5.0
+Kotthur,South,86404,8.64,3.7
+Kottigepalya,South,61268,6.13,8.06
+Krishnadevaraya ward,South,83116,8.31,5.97
+Krishnaiahnapalya,South,61304,6.13,5.81
+Krishnanagar,South,90802,9.08,5.0
+Kumaraswamy Layout,South,72814,7.28,7.29
+Kushal Nagar,South,69663,6.97,8.51
+Kuvempu Nagar,South,109405,10.94,3.67
+Kuvempu Ward,South,99209,9.92,6.16
+Kuvempunagara,South,104427,10.44,5.32
+L.B Shastri Nagar,South,53456,5.35,8.08
+Laggere,South,58984,5.9,5.12
+Lakkasandra,South,109286,10.93,3.56
+Lakshmi Devi Nagar,South,77105,7.71,6.6
+Lingarajpura,South,95216,9.52,6.37
+Madiwala,South,58749,5.87,8.74
+Mahadevapura,South,86364,8.64,5.3
+Mahalakshmipuram,South,58191,5.82,6.94
+Mallathahalli,South,90273,9.03,6.51
+Malleshwaram,South,107835,10.78,4.05
+Mangammanapalya,South,82134,8.21,4.19
+Manjunath Nagara,South,87026,8.7,3.97
+Marappana Palya,South,80645,8.06,3.67
+Marenahalli South,South,66658,6.67,4.07
+Marenahalli West,South,64563,6.46,5.13
+Maruthi Mandira Ward,South,88242,8.82,6.3
+Maruthi Seva Nagara,South,56936,5.69,5.68
+Mathikere,South,75446,7.54,5.89
+Moodalapalya,South,56682,5.67,6.25
+Muneshwara Block,South,58815,5.88,6.67
+N.A.L Layout,South,60561,6.06,5.96
+N.R Colony,South,55037,5.5,8.65
+NON Ward,South,79270,7.93,7.74
+Nada prabhu Kempegowda Nagara,South,104642,10.46,4.61
+Nagadevanahalli,South,59907,5.99,8.66
+Naganathapura,South,91954,9.2,4.26
+Nagapura,South,96524,9.65,8.0
+Nagarbhavi,South,59068,5.91,6.81
+Nagasandra,South,76919,7.69,7.82
+Nagavara,South,51977,5.2,3.97
+Nagavarapalya,South,91693,9.17,8.66
+Nalwadi Krishnaraja Wadiyar Ward,South,70767,7.08,7.78
+Nandini Layout,South,55449,5.54,8.2
+Nayanda Halli,South,77090,7.71,5.24
+Neelasandra,South,65818,6.58,7.58
+Nehru Nagar,South,73414,7.34,6.8
+Nelagadaranahalli,South,52285,5.23,5.2
+New Thippasandra,South,66165,6.62,4.23
+Newthippasandra,South,80689,8.07,8.12
+Okalipuram,South,51540,5.15,5.66
+Old Baiyappanahalli,South,84447,8.44,7.7
+Old Guddadahalli,South,65452,6.55,8.84
+Padarayanapura,South,69397,6.94,6.85
+Padmanabha Nagar,South,109150,10.91,8.65
+Padmanabhanagara,South,97446,9.74,4.29
+Parvathi Nagar,South,79006,7.9,7.92
+Pattabhiram Nagar,South,61887,6.19,3.64
+Pattabhirama Nagara,South,54828,5.48,8.03
+Pattegar Palya,South,87477,8.75,3.79
+Peenya,South,62285,6.23,4.09
+Periyar Nagar,South,63288,6.33,8.83
+Prakash Nagara,South,73953,7.4,4.57
+Pulakeshi Nagar,South,92478,9.25,7.64
+Puttenahalli,South,79135,7.91,6.76
+R.T Nagar,South,90506,9.05,6.83
+RAJIV GANDHI NAGAR,South,74254,7.43,8.7
+RBI Layout,South,71648,7.16,8.91
+Raja Mayura Varma Ward,South,70239,7.02,8.26
+Rajagopala Nagar,South,91923,9.19,5.53
+Rajagopala Nagara,South,94075,9.41,7.38
+Rajajinagara,South,59070,5.91,3.86
+Rajamahal,South,78814,7.88,7.59
+Rajarajeshwari Nagar,South,82692,8.27,6.84
+Rajarajeshwari Nagara,South,103450,10.35,3.69
+Rajarajeshwari Temple ward,South,58612,5.86,8.02
+Rajeshwarinagar,South,64916,6.49,5.7
+Rama Mandira,South,58046,5.8,6.14
+Ramamurthy Nagar,South,70418,7.04,6.95
+Ramamurthy Nagara,South,103477,10.35,7.49
+Ramaswamy Palya,South,75719,7.57,7.36
+Rayapuram,South,109906,10.99,4.47
+S.K Garden,South,104164,10.42,8.58
+Sadashiva Nagara,South,58843,5.88,8.87
+Sagayapuram,South,53496,5.35,3.89
+Samadhana Nagar,South,109522,10.95,5.35
+Sampangiram Nagar,South,75319,7.53,3.66
+Sampangirama Nagar,South,77571,7.76,6.41
+Sampigehalli,South,107485,10.75,6.8
+Sane Guruvana Halli,South,61629,6.16,5.59
+Sangama Ward,South,53331,5.33,5.96
+Sangolli Rayanna Ward,South,93300,9.33,6.28
+Sanjay Nagar,South,85388,8.54,5.71
+Sarakki,South,54107,5.41,5.36
+Sarvabhouma Nagar,South,72331,7.23,5.89
+Seshadripuram,South,84764,8.48,7.8
+Shakambari Nagar,South,88362,8.84,6.27
+Shakambarinagara,South,89191,8.92,8.49
+Shakthi Ganapathi Nagara,South,97278,9.73,4.81
+Shakthi Nagar,South,57984,5.8,6.82
+Shakthiganapathi Nagar,South,84716,8.47,4.86
+Shampura,South,73532,7.35,7.23
+Shankar Mutt,South,58651,5.87,7.29
+Shanthala Nagar,South,79152,7.92,6.01
+Shanthi Nagar,South,105785,10.58,3.94
+Shanthinagar,South,76922,7.69,3.89
+Shettyhalli,South,61861,6.19,7.42
+Shivajinagar,South,68339,6.83,4.9
+Shivanagara,South,73376,7.34,3.73
+Shivanapalya,South,71511,7.15,5.17
+Shivapura,South,95145,9.51,4.3
+Siddapura,South,77018,7.7,6.5
+SilverJubilee Park Ward,South,87666,8.77,5.24
+Singapura,South,95882,9.59,5.08
+Someshwara,South,75695,7.57,7.98
+Someshwara Nagara,South,89140,8.91,7.06
+Sri Nagar,South,76115,7.61,4.77
+Sri Rammandira,South,98817,9.88,4.45
+Srigandada Kaval,South,57755,5.78,6.98
+Srigandhanagar,South,99949,9.99,5.12
+Srinagar,South,53545,5.35,5.59
+Srinivasa Nagara,South,82585,8.26,5.92
+Subbayanapalya,South,94242,9.42,6.19
+Subedarapalya,South,79981,8.0,5.16
+Subedarpalya,South,106626,10.66,5.9
+Subramanyanagara,South,69030,6.9,8.91
+Subramanyapura,South,66923,6.69,5.58
+Sudam Nagar,South,73393,7.34,4.55
+Sudduguntepalya,South,64389,6.44,5.26
+Sunkadakatte,South,65747,6.57,4.83
+Sunkenahalli,South,78004,7.8,5.06
+Swamy Vivekananda Ward,South,51218,5.12,3.94
+Swatantra Palya Ward,South,67093,6.71,8.52
+T-Dasarahalli,South,67347,6.73,7.64
+T.R Shamanna Nagar,South,91955,9.2,4.19
+Talagattapura,South,96664,9.67,8.36
+Thanisandra,South,87818,8.78,4.71
+Thimmenahalli,South,93785,9.38,7.62
+Thindlu,South,68545,6.85,6.36
+Thyagarajnagar,South,86758,8.68,7.52
+Tilak Nagara,South,101151,10.12,5.07
+Uday Nagar,South,98135,9.81,4.07
+Ullal,South,76617,7.66,5.38
+Ullalu,South,62641,6.26,7.88
+Uttarahalli,South,83771,8.38,5.04
+V.V Puram,South,63780,6.38,8.23
+Vannarpet,South,89812,8.98,6.71
+Varalakshmi Nagar,South,65627,6.56,6.98
+Varthur,South,106089,10.61,5.66
+Vasanth Nagar,South,105711,10.57,3.73
+Vasanthapura,South,86977,8.7,7.95
+Venkat Reddy Nagara,South,73062,7.31,5.32
+Venkateshpuram,South,100784,10.08,8.84
+Vibhootipura,South,100063,10.01,5.62
+Vidyapeetha,South,92026,9.2,8.35
+Vidyaranyanagara,South,75190,7.52,8.28
+Vidyaranyapura,South,62636,6.26,4.38
+Vignana Nagar,South,79002,7.9,8.39
+Vignananagara,South,82962,8.3,4.97
+Vijanapura,South,91325,9.13,8.66
+Vijay Nagar,South,77580,7.76,5.48
+Vijinapura,South,54799,5.48,5.3
+Vinayaka Layout,South,98807,9.88,5.46
+Vinayakanagar,South,65740,6.57,8.38
+Vishwanatha Nagenahalli,South,107979,10.8,8.12
+Vishwanathnagenahalli,South,103663,10.37,7.25
+Vishwapriya Nagara,South,61781,6.18,7.58
+Visvesvarapuram,South,59884,5.99,6.68
+Vrishabhavathi Nagar,South,103918,10.39,7.46
+Yadiyuru,South,85565,8.56,7.05
+Yarab nagar,South,103103,10.31,5.8
+Yelachenahalli,South,89955,9.0,5.69
+Yelenahalli,South,80542,8.05,5.92
+Yeshwanthpur,South,71234,7.12,6.13
+Agrahara Dasarahalli,West,102336,10.23,3.88
+Aramane Nagar,West,56376,5.64,3.77
+Attiguppe,West,107086,10.71,8.94
+Azad Nagar,West,61033,6.1,7.35
+Bangarappa Nagara,West,58936,5.89,6.77
+Basaveshwara Nagar,West,59051,5.91,4.06
+Basaveshwara Nagara,West,97533,9.75,8.64
+Benniganahalli,West,94332,9.43,4.25
+Bharathi Nagar,West,62107,6.21,3.9
+Binnipet,West,73810,7.38,4.86
+Brundavana Nagara,West,100251,10.03,3.56
+Byatarayanapura,West,93545,9.35,3.58
+Chalavadipalya,West,53564,5.36,6.24
+Chamrajpet,West,67150,6.71,7.29
+Chickpete,West,79171,7.92,7.03
+Chikpete,West,88679,8.87,8.56
+Cottonpet,West,87312,8.73,8.43
+Cottonpete,West,100197,10.02,7.99
+Dattathreya Temple,West,100659,10.07,7.98
+Dattatreya Ward,West,102611,10.26,8.03
+Dayananda Nagar,West,88938,8.89,4.51
+Deepanjali Nagar,West,59551,5.96,8.96
+Dharmaraya Swamy Temple Ward,West,98494,9.85,8.44
+Dharmarayaswamy Temple Ward,West,51984,5.2,8.16
+Doddanekkundi,West,79853,7.99,8.72
+Dr.Rajkumar Ward,West,98008,9.8,7.59
+Gandhi Nagar,West,93485,9.35,5.58
+Gangenahalli,West,95301,9.53,7.34
+Gayathri Nagar,West,71948,7.19,8.3
+Govindraja Nagara,West,59718,5.97,3.61
+IPD Salappa Ward,West,82194,8.22,6.88
+Jagajeevanram Nagar,West,67678,6.77,5.78
+Jnanabharathi Ward,West,52274,5.23,6.77
+K Kamaraj Ward,West,100223,10.02,7.93
+K.R Market,West,85470,8.55,6.6
+K.R.Market,West,102695,10.27,6.12
+Kamakshipalya,West,98465,9.85,3.6
+Kamalanagara,West,55700,5.57,5.85
+Kaveripura,West,98125,9.81,6.0
+Kethamaranahalli,West,109071,10.91,4.29
+Mahalakshmipuram,West,65497,6.55,4.55
+Malleshwaram,West,60127,6.01,6.58
+Marappana Palya,West,82140,8.21,3.86
+Marenahalli,West,53772,5.38,4.89
+Maruthi Mandira Ward,West,53127,5.31,6.15
+Mathikere,West,62828,6.28,5.13
+Moodalapalya,West,87414,8.74,5.27
+Nagapura,West,79650,7.96,3.8
+Nagarabhavi,West,100635,10.06,8.95
+Nagarbhavi,West,100580,10.06,5.83
+Nandini Layout,West,65357,6.54,4.26
+Nayandanahalli,West,101130,10.11,6.81
+Okalipuram,West,52722,5.27,5.8
+Padarayanapura,West,64736,6.47,7.93
+Peenya Industrial Area,West,100748,10.07,5.79
+Prakash Nagar,West,73255,7.33,5.56
+Raja Mayura Varma Ward,West,83746,8.37,8.15
+Rajaji Nagar,West,69408,6.94,5.04
+Rajamahal,West,87289,8.73,5.54
+Rayapuram,West,85407,8.54,7.57
+Sadashiva Nagara,West,92895,9.29,8.58
+Shakthiganapathi Nagar,West,52039,5.2,4.03
+Shankaramata,West,76442,7.64,4.91
+Shiva Nagar,West,78362,7.84,7.87
+Shivanagara,West,98514,9.85,4.54
+Sri Rammandira,West,101881,10.19,7.09
+Srinagar,West,69528,6.95,6.33
+Subedarapalya,West,103673,10.37,7.62
+Subhash Nagar,West,59071,5.91,6.59
+Subramanya Nagar,West,61742,6.17,4.62
+Sunkenahalli,West,67359,6.74,5.82
+Thanisandra,West,70103,7.01,8.84
+Vasanth Nagar,West,62190,6.22,5.52
+Vrushabhavati Nagar,West,59406,5.94,6.48
+Yeshwanthpur,West,99262,9.93,7.66
+Abbigere,Yelahanka,91799,9.18,8.72
+Aerocity,Yelahanka,59338,5.93,5.77
+Amruthahalli,Yelahanka,52833,5.28,8.74
+Attur,Yelahanka,75679,7.57,4.11
+Bagalagunte,Yelahanka,64724,6.47,7.42
+Banashankari Temple Ward,Yelahanka,50413,5.04,7.89
+Benniganahalli,Yelahanka,91789,9.18,8.56
+Bhoopasandra,Yelahanka,95125,9.51,7.86
+Brundavana Nagara,Yelahanka,106524,10.65,6.12
+Byatarayanapura,Yelahanka,77619,7.76,6.02
+Chowdeshwari Ward,Yelahanka,102976,10.3,8.42
+Chowdeshwari ward,Yelahanka,99070,9.91,6.83
+Dasarahalli,Yelahanka,53298,5.33,4.48
+Dinnur,Yelahanka,94943,9.49,4.66
+Doddabettahalli,Yelahanka,100252,10.03,6.5
+Doddabommasandra,Yelahanka,75440,7.54,7.94
+Ganganagar,Yelahanka,69807,6.98,7.53
+Gangenahalli,Yelahanka,108245,10.82,4.13
+Geddalahalli,Yelahanka,69349,6.93,7.61
+HMT Ward,Yelahanka,55644,5.56,8.77
+Hebbal,Yelahanka,91004,9.1,5.73
+J.P PARK,Yelahanka,94078,9.41,8.78
+Jakkur,Yelahanka,60698,6.07,7.92
+Jalahalli,Yelahanka,92868,9.29,8.4
+Jaya Chamarajendra Nagara,Yelahanka,65282,6.53,8.91
+Jayachamarajendra Nagar,Yelahanka,79748,7.97,7.27
+Kammagondanahalli,Yelahanka,106037,10.6,6.38
+Kammanahalli,Yelahanka,60554,6.06,3.68
+Kempegowda Ward,Yelahanka,105557,10.56,8.33
+Kodigehalli,Yelahanka,62539,6.25,8.03
+Kuvempu Nagar,Yelahanka,63594,6.36,8.78
+Kuvempunagara,Yelahanka,102460,10.25,7.64
+Mallasandra,Yelahanka,96928,9.69,6.66
+Manjunatha Nagar,Yelahanka,88525,8.85,5.74
+Manorayanapalya,Yelahanka,65583,6.56,4.93
+Nagashettyhalli,Yelahanka,76517,7.65,6.08
+Nagavara,Yelahanka,105446,10.54,6.73
+Nele Maheshwaramma Temple Ward,Yelahanka,83681,8.37,6.89
+Nyayanga Badavane,Yelahanka,109870,10.99,4.96
+R.T Nagar,Yelahanka,73898,7.39,8.43
+Raja Kempegowda ward,Yelahanka,101043,10.1,5.83
+Rajarajeshwari Nagar,Yelahanka,86605,8.66,7.29
+Shettihalli,Yelahanka,67543,6.75,4.69
+Shettyhalli,Yelahanka,107251,10.73,4.13
+Singapura,Yelahanka,73018,7.3,4.43
+Singasandra,Yelahanka,101981,10.2,5.22
+Someshwara,Yelahanka,73651,7.37,5.06
+Thanisandra,Yelahanka,91558,9.16,6.71
+Thindlu,Yelahanka,66270,6.63,4.85
+Vidyaranyapura,Yelahanka,70434,7.04,7.64
+Vishwanatha Nagenahalli,Yelahanka,105680,10.57,7.19
+Yelahanka Satellite Town,Yelahanka,86553,8.66,4.04
+Yelahanka old Satellite Town,Yelahanka,63647,6.36,5.93
+Yeshwanthpura,Yelahanka,77066,7.71,4.07

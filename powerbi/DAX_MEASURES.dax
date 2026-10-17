@@ -1,0 +1,163 @@
+// ==============================================================================
+// CitySync / CivicCare — Official Power BI DAX Measures Library
+// Problem Statement 11: Crowdsourced Civic Issue Reporting & Resolution Analytics
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// 1. CORE VOLUME & RESOLUTION MEASURES
+// ------------------------------------------------------------------------------
+
+Total Complaints = 
+COUNTROWS(fact_grievances)
+
+Closed Complaints = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    fact_grievances[status] IN {"Closed", "Resolved"}
+)
+
+Open Complaints = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    NOT(fact_grievances[status] IN {"Closed", "Resolved"})
+)
+
+Resolution Rate % = 
+DIVIDE(
+    [Closed Complaints],
+    [Total Complaints],
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 2. SLA & TURNAROUND TIME MEASURES
+// ------------------------------------------------------------------------------
+
+Average Resolution Hours = 
+AVERAGE(fact_grievances[resolution_time_hours])
+
+Median Resolution Hours = 
+MEDIAN(fact_grievances[resolution_time_hours])
+
+Average Resolution Days = 
+DIVIDE([Average Resolution Hours], 24, 0)
+
+Complaints Within SLA = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    fact_grievances[within_sla] = 1
+)
+
+Complaints Breaching SLA = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    fact_grievances[within_sla] = 0
+)
+
+SLA Compliance % = 
+DIVIDE(
+    [Complaints Within SLA],
+    [Total Complaints],
+    0
+)
+
+SLA Breach % = 
+DIVIDE(
+    [Complaints Breaching SLA],
+    [Total Complaints],
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 3. ACCOUNTABILITY & ANOMALY DETECTION MEASURES
+// ------------------------------------------------------------------------------
+
+Fake Closures Count = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    fact_grievances[is_fake_closure] = 1
+)
+
+Fake Closure Rate % = 
+DIVIDE(
+    [Fake Closures Count],
+    [Closed Complaints],
+    0
+)
+
+Reopened Complaints = 
+CALCULATE(
+    COUNTROWS(fact_grievances),
+    fact_grievances[is_reopened] = 1
+)
+
+Reopen Rate % = 
+DIVIDE(
+    [Reopened Complaints],
+    [Total Complaints],
+    0
+)
+
+Genuine Resolved Complaints = 
+[Closed Complaints] - [Fake Closures Count]
+
+Genuine Resolution Rate % = 
+DIVIDE(
+    [Genuine Resolved Complaints],
+    [Total Complaints],
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 4. WARD & DEMOGRAPHIC DENSITY MEASURES
+// ------------------------------------------------------------------------------
+
+Total Estimated Population = 
+SUM(dim_ward[estimated_population])
+
+Complaint Density per 10k Pop = 
+DIVIDE(
+    [Total Complaints],
+    SUM(dim_ward[population_in_10k]),
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 5. TIME-INTELLIGENCE MEASURES (Requires dim_date relationship)
+// ------------------------------------------------------------------------------
+
+Complaints MTD = 
+TOTALMTD([Total Complaints], dim_date[Date])
+
+Complaints Previous Month = 
+CALCULATE(
+    [Total Complaints],
+    DATEADD(dim_date[Date], -1, MONTH)
+)
+
+MoM Growth % = 
+DIVIDE(
+    [Total Complaints] - [Complaints Previous Month],
+    [Complaints Previous Month],
+    0
+)
+
+// ------------------------------------------------------------------------------
+// 6. CONDITIONAL FORMATTING & ALERT STATUS
+// ------------------------------------------------------------------------------
+
+SLA Status Alert = 
+SWITCH(
+    TRUE(),
+    [SLA Breach %] > 0.25, "CRITICAL (High Breach)",
+    [SLA Breach %] > 0.15, "WARNING (Moderate Delay)",
+    "NORMAL (Within SLA)"
+)
+
+Fake Closure Alert Status = 
+SWITCH(
+    TRUE(),
+    [Fake Closure Rate %] > 0.12, "#D9381E", // Crimson Red
+    [Fake Closure Rate %] > 0.08, "#E68A00", // Amber Orange
+    "#1E824C"                                // Emerald Green
+)

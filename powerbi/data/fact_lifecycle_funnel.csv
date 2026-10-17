@@ -1,0 +1,7 @@
+stage_order,lifecycle_stage,complaints_count,conversion_pct
+1,1. Filed & Registered,1207746,100.0
+2,2. Assigned to Ward Unit,1189629,98.5
+3,3. Field Inspection / Work,1137696,94.2
+4,4. Claimed Resolution,1104215,91.4
+5,5. Genuine Verified Closure,983505,81.4
+6,6. Reopened / Citizen Appeal,46232,3.8

@@ -1,0 +1,40 @@
+# ==============================================================================
+# Git Ignore Configuration for CitySync / CivicCare
+# Prevents large raw files (>100MB) from breaking GitHub's push limits,
+# while preserving code, models, notebooks, powerbi assets, and small samples.
+# ==============================================================================
+
+# Large raw dataset files exceeding GitHub 100MB limit (kept safely on local disk)
+data/raw/
+Datasets/
+data/processed/nyc_311_2025_processed.parquet
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and virtualenvs
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary logs & scratch
+*.log
+scratch/

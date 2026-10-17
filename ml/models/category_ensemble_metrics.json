@@ -1,0 +1,74 @@
+{
+  "accuracy": 0.9932923420905534,
+  "macro_f1": 0.9946677994083077,
+  "weighted_f1": 0.9932867550866878,
+  "report": {
+    "Animal Husbandry & Stray Animals": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 171.0
+    },
+    "Drainage & Water Supply": {
+      "precision": 0.9877049180327869,
+      "recall": 1.0,
+      "f1-score": 0.9938144329896907,
+      "support": 241.0
+    },
+    "Encroachments & Footpaths": {
+      "precision": 0.9893617021276596,
+      "recall": 1.0,
+      "f1-score": 0.9946524064171123,
+      "support": 93.0
+    },
+    "Horticulture & Greenery": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 96.0
+    },
+    "Public Health & Sanitation": {
+      "precision": 0.9885057471264368,
+      "recall": 0.9847328244274809,
+      "f1-score": 0.9866156787762906,
+      "support": 262.0
+    },
+    "Revenue & Urban Governance": {
+      "precision": 0.9862385321100917,
+      "recall": 0.9953703703703703,
+      "f1-score": 0.9907834101382489,
+      "support": 216.0
+    },
+    "Roads & Infrastructure": {
+      "precision": 1.0,
+      "recall": 0.9956896551724138,
+      "f1-score": 0.9978401727861771,
+      "support": 232.0
+    },
+    "Solid Waste Management": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 134.0
+    },
+    "Street Lighting & Electrical": {
+      "precision": 0.9941176470588236,
+      "recall": 0.9825581395348837,
+      "f1-score": 0.9883040935672515,
+      "support": 344.0
+    },
+    "accuracy": 0.9932923420905534,
+    "macro avg": {
+      "precision": 0.9939920607173109,
+      "recall": 0.9953723321672387,
+      "f1-score": 0.9946677994083077,
+      "support": 1789.0
+    },
+    "weighted avg": {
+      "precision": 0.993314713703139,
+      "recall": 0.9932923420905534,
+      "f1-score": 0.9932867550866878,
+      "support": 1789.0
+    }
+  }
+}
