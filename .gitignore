@@ -1,0 +1,18 @@
+# Compiled binaries & objects
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+
+# IDE / Editor temporary files
+.vscode/
+.idea/
+*.swp
+*.log
