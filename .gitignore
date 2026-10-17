@@ -1,0 +1,19 @@
+# Binaries & Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Persistent database & test data files
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+
+# Build directories
+build/
+bin/
+out/
+.vscode/
+.idea/
